@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.linkpicture.com/q/06a2bfc8-0a64-4f81-b3ed-df830b607515.jpg)
 
 There are a simple testin project for example of MERN stack project using React JS , Express, Mongo DB and Node JS. Also have file structure of Frontend and Back end.using Reast API run the backend in port 4000 and you can also change it usin .env dile. also this backend include my mongo db conection.
 
@@ -142,7 +142,7 @@ This is how you install the app and how it run._
    ```js
    npm start
    ``` 
-5. Start the client app in port 4000
+5. Start the client app in port 3000
    ```js
    npm start
    ```
